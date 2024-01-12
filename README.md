@@ -1,7 +1,4 @@
-# Tauri + React + Typescript
+# Tauri + React + Typescript + Styled Components demo
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+<img width="912" alt="Screenshot 2024-01-12 at 5 11 46 PM" src="https://github.com/developermindsetcom/tauri-styled-components/assets/154647374/f8a8cc87-6572-4bbf-b82e-e625728e5dc1">
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
